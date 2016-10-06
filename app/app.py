@@ -11,7 +11,7 @@ app = Flask(__name__)
 
 #Common data
 url = "http://challenge.code2040.org/api/"
-token = ""
+token = "" #Put the token here
 post_data = {"token":token}
 
 #Home
